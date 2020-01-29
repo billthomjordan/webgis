@@ -1,0 +1,27 @@
+.jumbotron {
+	background-image: url(img/webgishome.jpg);
+	background-size: cover;
+	height: 770px;
+	text-align: center;
+	margin-top: -120px;
+}
+.jumbotron .display-4 {
+	color: white;
+	font-family: bold;
+	margin-top: 200px;
+}
+.jumbotron p {
+	color: white;
+	font-size: 25px;
+}
+.jumbotron hr {
+	border-color: #ADD8E6;
+	width: 800px;
+	border-width: 3px;
+}
+.jumbotron .btn{
+	border-radius: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-top: 20px;
+}
